@@ -59,6 +59,7 @@
     "instrument": false
   },
   "dependencies": {
+    "bitcoin-ts": "^1.4.0",
     "elliptic": "^6.4.1",
     "js-sha3": "^0.8.0"
   }

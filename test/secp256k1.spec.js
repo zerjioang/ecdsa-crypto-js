@@ -19,8 +19,14 @@ describe('Given an instance of my secp256k1 library', () => {
     });
   });
   describe('when I run the example', () => {
-    it('when I run the example', () => {
+    it('it should be executed successfully', () => {
       let result = lib.example()
+      expect(result).to.be.equal(true);
+    });
+  });
+  describe('when I run the webassembly verify', () => {
+    it('it should be executed successfully', () => {
+      let result = lib.webassembly()
       expect(result).to.be.equal(true);
     });
   });
