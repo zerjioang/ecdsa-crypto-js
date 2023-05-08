@@ -1,21 +1,4 @@
-<p align="center">
-  <img alt="etherniti.org" src="https://avatars3.githubusercontent.com/u/47393730?s=200&v=4" width="200px"></img>
-  <h3 align="center"><b>Etherniti Web3 Crypto Library</b></h3>
-  <p align="center">https://docs.etherniti.org/js</p>
-</p>
-
-<p align="center">
-    <a href="https://travis-ci.org/zerjioang/etherniti-js">
-      <img alt="Build Status" src="https://travis-ci.org/zerjioang/etherniti-js.svg?branch=master">
-    </a>
-    <a href="https://github.com/zerjioang/etherniti-js/blob/master/LICENSE">
-        <img alt="Software License" src="http://img.shields.io/:license-gpl3-brightgreen.svg?style=flat-square">
-    </a>
-</p>
-
-Etherniti Web3 Crypto Library compatible with Ethereum **Elliptic Curve Digital Signature Algorithm** (ECDSA) `secp256k1` for Web Browsers.
-
-![Travis](https://travis-ci.org/etherniti/etherniti-js.svg?branch=master)
+Web3 Crypto Library compatible with Ethereum **Elliptic Curve Digital Signature Algorithm** (ECDSA) `secp256k1` for Web Browsers.
 
 ## Features
 * Key-Pair generation.
